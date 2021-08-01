@@ -1,12 +1,17 @@
 # Hi there i'm Nilson Sasaki!!!👋
 
 Electrical Engineering Student at São Paulo University (USP)  
-Working on to be an Android Developer  
+Working on to be an Android Developer
+
+Lost some of my works on the Flutter development because I didn't push and my SSD broke:weary: but i'm excited because i've been select to the Santander Bootcamp :tada::tada::tada:
 
 ## Santander Bootcamp by Digital Inovation One 
 
-I've been select to the Santander : 
+I'm currently learning Android Development with kotlin and updating
+
 ## Complete Flutter App Development Bootcamp with Dart
+
+I have completed all the course and i really recommend this udemy course :wink:, i will remake the lost apps, a good lesson to push to github my work :disappointed: 
 
 - [Xylophone](https://github.com/nilsonsasaki/xylophone-flutter)
 - [Destiny Chalenge](https://github.com/nilsonsasaki/destini-challenge-starting)
@@ -15,6 +20,11 @@ I've been select to the Santander :
 - [Bitcoin Ticker](https://github.com/nilsonsasaki/bitcoin-ticker-flutter)
 - [Flash Chat](https://github.com/nilsonsasaki/flash-chat-flutter)
 - [Todoey](https://github.com/nilsonsasaki/todoey_flutter)
+
+## Exercises from HackerRank
+
+- [C language](https://github.com/nilsonsasaki/HackerRank_C)  
+- [Cpp language](https://github.com/nilsonsasaki/HackerRank_Cpp)
 
 <!--
 **nilsonsasaki/nilsonsasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
