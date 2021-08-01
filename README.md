@@ -1,7 +1,12 @@
-# Hi there i'm Nilson Sasaki!!!👋
+# Hello there i'm Nilson Sasaki!!!👋
 
 Electrical Engineering Student at São Paulo University (USP)  
 Working on to be an Android Developer
+
+e-mail: nilsonsasaki@gmail.com  
+LinkedIn: /in/nilsonsasaki/  
+Skype: live:nilsonsasaki  
+Hacker Rank: /nilsonsasaki  
 
 Lost some of my works on the Flutter development because I didn't push and my SSD broke:weary: but i'm excited because i've been select to the Santander Bootcamp :tada::tada::tada:
 
