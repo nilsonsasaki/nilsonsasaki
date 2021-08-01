@@ -24,7 +24,7 @@ I have completed all the course and i really recommend this udemy course :wink:,
 ## Exercises from HackerRank
 
 - [C language](https://github.com/nilsonsasaki/HackerRank_C)  
-- [Cpp language](https://github.com/nilsonsasaki/HackerRank_Cpp)
+- [C++ language](https://github.com/nilsonsasaki/HackerRank_Cpp)
 
 <!--
 **nilsonsasaki/nilsonsasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
