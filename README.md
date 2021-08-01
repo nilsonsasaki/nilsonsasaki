@@ -1,7 +1,11 @@
 # Hi there i'm Nilson Sasaki!!!👋
 
-I'm an electrical engineering graduating student at São Paulo University (USP), i'm working on to be an Android Developer  
+Electrical Engineering Student at São Paulo University (USP)  
+Working on to be an Android Developer  
 
+## Santander Bootcamp by Digital Inovation One 
+
+I've been select to the Santander : 
 ## Complete Flutter App Development Bootcamp with Dart
 
 - [BMI Calculator](https://github.com/nilsonsasaki/bmi-calculator-flutter)
