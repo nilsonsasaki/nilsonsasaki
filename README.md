@@ -1,4 +1,4 @@
-# Hello there i'm Nilson Sasaki!!!👋
+# Hello there i'm Nilson Sasaki :wink:
 
 Electrical Engineering Student at São Paulo University (USP)  
 Working on to be an Android Developer
