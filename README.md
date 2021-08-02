@@ -12,7 +12,10 @@ Lost some of my works on the Flutter development because I didn't push and my SS
 
 ## Santander Bootcamp by Digital Inovation One 
 
-I'm currently learning Android Development with kotlin and updating
+I'm currently learning Android Development with kotlin, here are my apps i'm still developing:
+
+- [students grades](https://github.com/nilsonsasaki/Studentsgrades)
+- [BMI calculator](https://github.com/nilsonsasaki/kotlinBMIcalculator)
 
 ## Complete Flutter App Development Bootcamp with Dart
 
@@ -27,6 +30,8 @@ I have completed all the course and i really recommend this udemy course :wink:,
 - [Todoey](https://github.com/nilsonsasaki/todoey_flutter)
 
 ## Exercises from HackerRank
+
+I used to exercise my C,C++ skills in HackerRank when i was aiming to be a embedded developer
 
 - [C language](https://github.com/nilsonsasaki/HackerRank_C)  
 - [C++ language](https://github.com/nilsonsasaki/HackerRank_Cpp)
