@@ -17,6 +17,13 @@ I'm currently learning Android Development with kotlin, here are my apps i'm sti
 - [students grades](https://github.com/nilsonsasaki/Studentsgrades)
 - [BMI calculator](https://github.com/nilsonsasaki/kotlinBMIcalculator)
 
+## Google kotlin developer course
+
+While working on in the Santander bootcamp i felt need to go deeper in my studies so i'm workin here too:
+
+- [Birthday Card](https://github.com/nilsonsasaki/developer.android_Happy_Birthday)
+- [Dice Roller](https://github.com/nilsonsasaki/Dice-Roller)
+
 ## Complete Flutter App Development Bootcamp with Dart
 
 I have completed all the course and i really recommend this udemy course :wink:, i will remake the lost apps, a good lesson to push to github my work :disappointed: 
