@@ -23,6 +23,7 @@ While working on in the Santander bootcamp i felt need to go deeper in my studie
 
 - [Birthday Card](https://github.com/nilsonsasaki/developer.android_Happy_Birthday)
 - [Dice Roller](https://github.com/nilsonsasaki/Dice-Roller)
+- [Lemonade](https://github.com/nilsonsasaki/android-basics-kotlin-lemonade-app)
 
 ## Complete Flutter App Development Bootcamp with Dart
 
