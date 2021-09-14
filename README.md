@@ -12,10 +12,19 @@ Lost some of my works on the Flutter development because I didn't push and my SS
 
 ## Santander Bootcamp by Digital Inovation One 
 
-I'm currently learning Android Development with kotlin, here are my apps i'm still developing:
+In the Santander Bootcamp i was challenged to create an task App using Room persistency library. So i created the my kotlin task app from scratch, which i'm still working on improvements
 
-- [students grades](https://github.com/nilsonsasaki/Studentsgrades)
-- [BMI calculator](https://github.com/nilsonsasaki/kotlinBMIcalculator)
+[Kotlin to do List](https://github.com/nilsonsasaki/kotlin-To-Do-List)
+
+In this project i have used:
+
+- Room
+- LiveData
+- Navigation Component
+- View Binding
+- Fragments
+- viewModel
+- Recycler View
 
 ## Google kotlin developer course
 
