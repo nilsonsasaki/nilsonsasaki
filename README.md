@@ -8,45 +8,45 @@ LinkedIn: [/in/nilsonsasaki/](https://www.linkedin.com/in/nilsonsasaki/)
 Skype: live:nilsonsasaki  
 Hacker Rank: [/nilsonsasaki](https://www.hackerrank.com/nilsonsasaki)  
 
-Lost some of my works on the Flutter development because I didn't push and my SSD broke:weary: but i'm excited because i've been select to the Santander Bootcamp :tada::tada::tada:
+## Projects I'm working:
 
-## Santander Bootcamp by Digital Inovation One 
+### [Kotlin to do List](https://github.com/nilsonsasaki/kotlin-To-Do-List)
 
-In the Santander Bootcamp i was challenged to create an task App using Room persistency library. So i created the my kotlin task app from scratch, which i'm still working on improvements
-
-[Kotlin to do List](https://github.com/nilsonsasaki/kotlin-To-Do-List)
+In the Santander Bootcamp i was challenged to create an task App with a persistency lybrary. They provided a start code but i created the my kotlin task app from scratch, managed to create a Room database, but i'm still working on improvements. 
 
 In this project i have used:
 
 - Room
 - LiveData
-- Navigation Component
+- Jetpack Navigation Component
 - View Binding
 - Fragments
 - viewModel
 - Recycler View
 
-## Google kotlin developer course
+### [Movies App](https://github.com/nilsonsasaki/Movies_app)
 
-While working on in the Santander bootcamp i felt need to go deeper in my studies so i'm workin here too:
+In this project i was challenged to create an App that consume a rest api to show details of a list of 20  movies titles
 
-- [Birthday Card](https://github.com/nilsonsasaki/developer.android_Happy_Birthday)
-- [Dice Roller](https://github.com/nilsonsasaki/Dice-Roller)
-- [Lemonade](https://github.com/nilsonsasaki/android-basics-kotlin-lemonade-app)
+In this project i have used:
 
-## Complete Flutter App Development Bootcamp with Dart
+- Retrofit
+- Moshi
+- Coil
+- Jetpack Navigation Component
+- Fragments
 
-I have completed all the course and i really recommend this udemy course :wink:, i will remake the lost apps, a good lesson to push to github my work :disappointed: 
+### [Have you Heard?](https://github.com/yuumasato/have_you_heard)
 
-- [Xylophone](https://github.com/nilsonsasaki/xylophone-flutter)
-- [Destiny Chalenge](https://github.com/nilsonsasaki/destini-challenge-starting)
-- [BMI Calculator](https://github.com/nilsonsasaki/bmi-calculator-flutter)
-- [Clima Flutter](https://github.com/nilsonsasaki/Clima-Flutter)
-- [Bitcoin Ticker](https://github.com/nilsonsasaki/bitcoin-ticker-flutter)
-- [Flash Chat](https://github.com/nilsonsasaki/flash-chat-flutter)
-- [Todoey](https://github.com/nilsonsasaki/todoey_flutter)
+It is a game to raise awareness about the fake news developed in Flutter. In this project i'm working with four developers team but it has a long way until it's release, my repository is [here](https://github.com/nilsonsasaki/have_you_heard). I am very thankfull to be part of this project because i have learned a lot about Git Flow.
 
-## Exercises from HackerRank
+In this project i worked on:
+
+- Creating screen layouts
+- Creating custom widgets
+- adding Themes
+
+### Exercises from HackerRank
 
 I used to exercise my C,C++ skills in HackerRank when i was aiming to be a embedded developer
 
