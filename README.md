@@ -3,11 +3,6 @@
 Electrical Engineering Student at São Paulo University (USP)  
 Working on to be an Android Developer
 
-e-mail: nilsonsasaki@gmail.com  
-LinkedIn: [/in/nilsonsasaki/](https://www.linkedin.com/in/nilsonsasaki/)  
-Skype: live:nilsonsasaki  
-Hacker Rank: [/nilsonsasaki](https://www.hackerrank.com/nilsonsasaki)  
-
 ## Projects I'm working:
 
 ### [Kotlin to do List](https://github.com/nilsonsasaki/kotlin-To-Do-List)
